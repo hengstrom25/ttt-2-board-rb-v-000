@@ -1,1 +1,1 @@
-# Define the variable board below.
+puts "B# Define the variable board below.
